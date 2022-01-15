@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/live-presentation-tool/static/css/main.e6c13ad2.css",
-    "main.js": "/live-presentation-tool/static/js/main.3ff03d54.js",
+    "main.css": "/live-presentation-tool/static/css/main.93561573.css",
+    "main.js": "/live-presentation-tool/static/js/main.a1f45fb7.js",
     "static/js/787.8222a652.chunk.js": "/live-presentation-tool/static/js/787.8222a652.chunk.js",
     "static/media/MicroDried_logo.png": "/live-presentation-tool/static/media/MicroDried_logo.e0f145140051ae13cf18.png",
     "index.html": "/live-presentation-tool/index.html",
-    "main.e6c13ad2.css.map": "/live-presentation-tool/static/css/main.e6c13ad2.css.map",
-    "main.3ff03d54.js.map": "/live-presentation-tool/static/js/main.3ff03d54.js.map",
+    "main.93561573.css.map": "/live-presentation-tool/static/css/main.93561573.css.map",
+    "main.a1f45fb7.js.map": "/live-presentation-tool/static/js/main.a1f45fb7.js.map",
     "787.8222a652.chunk.js.map": "/live-presentation-tool/static/js/787.8222a652.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.e6c13ad2.css",
-    "static/js/main.3ff03d54.js"
+    "static/css/main.93561573.css",
+    "static/js/main.a1f45fb7.js"
   ]
 }
