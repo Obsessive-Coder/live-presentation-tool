@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/live-presentation-tool/static/css/main.93561573.css",
-    "main.js": "/live-presentation-tool/static/js/main.0253a01b.js",
+    "main.js": "/live-presentation-tool/static/js/main.739c305c.js",
     "static/js/787.8222a652.chunk.js": "/live-presentation-tool/static/js/787.8222a652.chunk.js",
     "static/media/MicroDried_logo.png": "/live-presentation-tool/static/media/MicroDried_logo.e0f145140051ae13cf18.png",
     "index.html": "/live-presentation-tool/index.html",
     "main.93561573.css.map": "/live-presentation-tool/static/css/main.93561573.css.map",
-    "main.0253a01b.js.map": "/live-presentation-tool/static/js/main.0253a01b.js.map",
+    "main.739c305c.js.map": "/live-presentation-tool/static/js/main.739c305c.js.map",
     "787.8222a652.chunk.js.map": "/live-presentation-tool/static/js/787.8222a652.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.93561573.css",
-    "static/js/main.0253a01b.js"
+    "static/js/main.739c305c.js"
   ]
 }
