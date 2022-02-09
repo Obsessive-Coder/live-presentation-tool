@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/static/css/main.93561573.css",
-    "main.js": "/static/js/main.8e28f6ee.js",
+    "main.js": "/static/js/main.a8d18a3a.js",
     "static/js/787.8222a652.chunk.js": "/static/js/787.8222a652.chunk.js",
     "static/media/MicroDried_logo.png": "/static/media/MicroDried_logo.e0f145140051ae13cf18.png",
     "index.html": "/index.html",
     "main.93561573.css.map": "/static/css/main.93561573.css.map",
-    "main.8e28f6ee.js.map": "/static/js/main.8e28f6ee.js.map",
+    "main.a8d18a3a.js.map": "/static/js/main.a8d18a3a.js.map",
     "787.8222a652.chunk.js.map": "/static/js/787.8222a652.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.93561573.css",
-    "static/js/main.8e28f6ee.js"
+    "static/js/main.a8d18a3a.js"
   ]
 }
